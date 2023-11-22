@@ -1,5 +1,5 @@
 chaine = "abcdefghijklmnopqrstuvwxyz"
-rows = len(chaine)
+rows = 10
 
 for i in range(rows):
     for j in range(i + 1):
